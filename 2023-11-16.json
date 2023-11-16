@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Erickson",
+  "age": 60,
+  "address": {
+    "street": "Boceg Grove",
+    "city": "Noikimu",
+    "state": "MN",
+    "zip": "59293"
+  },
+  "contact": {
+    "phone": "(576) 655-8658",
+    "servicePhone": "800844562"
+  },
+  "birthday": "1985-03-12T18:36:04.012Z",
+  "ip": "37.149.64.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Lazo gagubmur kubla micpasi to re bah ugaguor cal jugvutta cunli naghehisa nodgiep cuhgekzif paaroumi. Pavrugva je huntumju jupwauci zonafip go ulhiwe vek owohiz seribmek lote kosem cuh alwo. Hoon toc zihubbu gelwuv rowumjik kah nuomola afe jad kunuj dabavi irumurpi awa tudgejnov. Camot if lil fuc uzsawe liletlit nef gev agook tokaket cab vovzouge welacu paz doslu.",
+    "bio": "Siemodu papzacge ca pocebsuf tat miper basib ce co eg lun elahehmep wavrowat asusitmon wi. Kiro no avage wacokkap wev mir cismuzu basi kimrel etid up fap eduodobu owouw usdoep gawam. Kufin feuru lokdo izibuwwap gih maz umizub luvkosniv wovibeozu zuatikor eni miij vaci kabpa capvuril fodol garefpu. Somsak nemece tohokib zesviila mavosa hisifek ukudu vignuk teskiczo cofimeh geckuti givu fehut detkap nubeb obitafas gukgo."
+  },
+  "apiKey": "c6ad632835dc74d06f4ac859b6f522032eac864ae68f1e35658f3b195a51cd3e",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
