@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve Mann",
+  "age": 38,
+  "address": {
+    "street": "Ersaz Way",
+    "city": "Heczugel",
+    "state": "RI",
+    "zip": "57522"
+  },
+  "contact": {
+    "phone": "(735) 322-1781",
+    "servicePhone": "800655624"
+  },
+  "birthday": "1992-02-14T08:58:21.232Z",
+  "ip": "24.242.213.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Wemwuk muluhdor rocmuhnu rinacbi oju uwlep rij esiili geppirfe juwowfa ba gaeduz be beffa golowte gen cuod wakbublu. Ofil la wopgi tihve gecon hanogfa ut bonne zucim fejdigew vig ak weso viwitub. Rovuc tibado if simni pocreta acritow puc towos witotu olaepowu isemioli dude.",
+    "bio": "Kohmev jam lewpodnut oj fano zami reswo gaakge ranoddav uvilo peko ca su not dujmobom jobwi caaw. Uzfuj romgo rob lohec watuzli umabov zike dun isilirbi jarfi ge diino. Ruvohku vebi bi piudice we fakru ge id nug rugun fed bo vuke. Wu aforov be tuh ag gorih ubzofiw pawevimu arhik elaveafu pefi ome. Ziizi pob athef op cirra devod pa edema dig satru puso co riporva cusgo."
+  },
+  "apiKey": "694612d0f6227cdf64d42c676613794b48edc2771c52e8eef92bb434d6a130f2",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
