@@ -1,0 +1,26 @@
+{
+  "name": "Tom Page",
+  "age": 41,
+  "address": {
+    "street": "Kogun Pass",
+    "city": "Hassuwe",
+    "state": "DC",
+    "zip": "81543"
+  },
+  "contact": {
+    "phone": "(869) 612-8273",
+    "servicePhone": "800828253"
+  },
+  "birthday": "2005-11-01T05:27:43.422Z",
+  "ip": "234.244.184.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Digozneb kepcamu dodzivmef fauzaala buc berop ubidekle sa mekijfe lovtujuw duvsan jevo rivbe vutzepla. Cu dodihe hukil ebtohem ece paf robu puhbas wohalil fin vu bu en lozgunu miko do da du. Atocodhi ebjig ume uvoodvol idigemwok bozvemjat noske jusupif souwwop jek avujode lirazo. Weg si loun ibec fo kaongi tuvnendad wi ebnav gupahpel raktu iwema disjekbe vu fijmuivi azda es.",
+    "bio": "Dov juprepfa leale ija zucwuhe vu sekbiffuj otmo zo gaj binwop imrib dakha. Il apip fu iple boub lezos ukjeburu sil zanepuz gitketej be elekuej. Zev efa hinnuzi nobdetlar mip bes cej allep akofudo oji jag usagazro juzfadek pizeil. Hilhe apefewe lagcegbi ha uflintal gafso lojladbe afo zeha umule lutna so foluru. Akolas ma fuimfeb hi pi tilevcaz jiz dotgecuc hofme uruzopo nekopde jodleofa cu dediiz evhet. So zusu dizutef ku dubac muvilo giv jocadef irjikar ga wiacmul memif ci."
+  },
+  "apiKey": "d35a3c9d7ca52d7fcd96d941198186afe412b935fe895be44c62342970ddf6ee",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
