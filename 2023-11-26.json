@@ -1,0 +1,26 @@
+{
+  "name": "Tom Peters",
+  "age": 23,
+  "address": {
+    "street": "Ifir Ridge",
+    "city": "Aditockuv",
+    "state": "MA",
+    "zip": "85796"
+  },
+  "contact": {
+    "phone": "(451) 497-6889",
+    "servicePhone": "800834561"
+  },
+  "birthday": "1967-09-07T22:07:22.143Z",
+  "ip": "167.49.27.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Woku guwat muk mar mekzajwe kapiwkuz pepbul vos wavugtun oburibci gev pedejwik. Dedad afkazcad vij col ban aja tarak pak celufpe huvkow katadol mollo behon mi cubi. Pecepugot ujilul ociramus ciebuwis lak ful ki el vu destoz bofazgaj lozeb dumu.",
+    "bio": "Cozru sarate cut be sapcep devud le baskim zum lianula zu waf. Du uluurro esse hav ki pizesu hagmabez vugilku befofur kefadjud leacibi fauzefat ego nuc suwmoddag coroj. Siwem cadogle zoiveze couki ejo woopicig lurfap he sehwib heskifag lakij goopiraz ivoceil hopdegos jodumniw. Rusag let akrihik cujbeaj nobo ni gotpema wofim va tip gewtokha rif obkafiv uzo sesazgu ufizoh mahhopero ru. De zeapi roec ribugca uda jonvopwo alzok makobzat cunsug tan im azse sup."
+  },
+  "apiKey": "6843a33e5d78e331d9c7cdd08c791307265e293fdeb822bbf60c1fd61e4eda50",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
