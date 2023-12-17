@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Padilla",
+  "age": 42,
+  "address": {
+    "street": "Nohkut Parkway",
+    "city": "Limehzun",
+    "state": "AL",
+    "zip": "73739"
+  },
+  "contact": {
+    "phone": "(664) 268-1042",
+    "servicePhone": "800719344"
+  },
+  "birthday": "1978-08-29T15:59:32.571Z",
+  "ip": "178.201.212.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovi woh dorvigi catow ih cuficib awu anlikewa un mi lup jawil kufekugo hamte. Nazzorna facze dehuh buw ijuarega hevgav pa so cekejpat ceh wosgegew sum ivu. Olane zuv onize aj zewna heji ahoziggu gos foitu do uvnolrup gicjik fug gi ortoz von co. Aknuloji noobmi dito fo op izinod jidzunka izma oci ubaneju keuri evu tatmucok.",
+    "bio": "Mukulu opolil raep sejere rurbih fum olsegoh imsuluru lig pez zes tik ibbub. Pamsigal emuber huf ni cudpe bir duno wikoje cuije rikpo pi wibrar funsewjuf gunade piirbo hipugjil gehjeg. Mad juwbeveh ki wamomhem ofeek ecobupfi rar wihwuom athe kaece fofimwiv tu pinuwhu fatoba oso zipti."
+  },
+  "apiKey": "d77d609e5aa25332e3a59858df2a1be4cebf8ed214bfb76d5f7b166af425494f",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
