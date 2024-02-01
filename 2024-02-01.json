@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Hamilton",
+  "age": 29,
+  "address": {
+    "street": "Avha Manor",
+    "city": "Sisanocul",
+    "state": "HI",
+    "zip": "20890"
+  },
+  "contact": {
+    "phone": "(777) 460-8855",
+    "servicePhone": "800581418"
+  },
+  "birthday": "1983-12-17T11:09:20.472Z",
+  "ip": "63.65.75.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Despoza gebiz ludomura simik riwre an ulbasus paag witbo duzzucon ol hiha zupza jaduzak. Ojzeji ro eje afu ocva zaumaoj fawug zus miwba saboz vodifez gotke zarho. Itci futvidho vab pikluh josu pe nuj ketot jilhin hak zin umdejbom kovu.",
+    "bio": "Omla owo nig kov uj jimuk pigudibod nakip habog vuovbir po uwo pe ugoc heekoeha ziih kervih otgo. Rup sivinuk diedhij ebmoboc geuwufec ga javce lehfajbub huzenop howi vo juzharliv fonuru hinob kanuhak liefe juej. Lewosuij howig bemhe iru golhebsuc iguhu vemeik iz ududuc irvun pefi gonlompip ba sag jam oti iho."
+  },
+  "apiKey": "51ce7a6f8035926842c9dd1426f6e29365a6bdd924bd96836c36efa47c75d005",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
