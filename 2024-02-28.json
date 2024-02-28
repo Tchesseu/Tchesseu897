@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Atkins",
+  "age": 33,
+  "address": {
+    "street": "Igeda Street",
+    "city": "Segofes",
+    "state": "TN",
+    "zip": "08701"
+  },
+  "contact": {
+    "phone": "(566) 760-2673",
+    "servicePhone": "800475758"
+  },
+  "birthday": "1960-09-11T10:22:57.219Z",
+  "ip": "175.29.17.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Butaf wuppah se gikus owdi woziro fiz octosiv cuvuna afu sabsicji ulhikuj ibe gasi gugvow. Sufwed om we ta geg avumef lecul goeha sik co fi ipidi bu wu osubuhi lu. Casic ci enbul zut vow uveekaeb ehelatsa ulofap bo maced wahgorto uhlehle.",
+    "bio": "Mudujo jatjaguca unid timoowa nitoku ahsa haroptah esa etafibde jelipelu fo rewlep. Jupid obdehe owajoj zanjazwum foari daoda hakamse he etdumra hubig uneihni kevocuwip peespu bazif saut. Noesge melkarwa puwav amfu retor ruweri kad eddif ofohu uried ufi ajetoefa."
+  },
+  "apiKey": "f066ced2480072be70d381677077f5127bf1221938b238e1d909ee613ec63190",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
