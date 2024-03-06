@@ -1,0 +1,26 @@
+{
+  "name": "Annie Stone",
+  "age": 54,
+  "address": {
+    "street": "Gila Lane",
+    "city": "Cocpihi",
+    "state": "CT",
+    "zip": "10935"
+  },
+  "contact": {
+    "phone": "(462) 815-9188",
+    "servicePhone": "800751427"
+  },
+  "birthday": "1980-12-12T20:45:51.444Z",
+  "ip": "211.160.168.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Belette hoglorcuc ro tispew zet amisehwo zah vuccuufe hetiv rev rubcot davned uge wujomef witu. Ko avuoti joh jicguciv iveru ec envozzib lokati ow ipawis bupeuf jebowva ba sa bamke. Cirmedzeg mev upuoguib vuzwecpu fubaw feuzolu zuk ga sa atonuog jebo ak cintihi be bedugkiv atkup ki icwezaj.",
+    "bio": "Emi mohebok ajeunaju muk rabjafma sefob ci zioz lieg pemtipti afaalipeb pimkaosa budoina hanavu. Ipborro ak nu rolbuiw sejaluk kocum suhgareto duj ruh ece cehagris ogsenih berlih cidutubo. Hig duswuguj bikula olefimu sobu koflih wi kuz ri nidtauro sigmenwo we judagka en. Fipo oz dop zizab lu gi runzaw fel woupini ho hap mel dup uvmu homu."
+  },
+  "apiKey": "435661bbfc3b835f1efa0fc4736e264a0576d41fabfab51e85cde181c9698f6d",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
