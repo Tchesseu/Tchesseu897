@@ -1,0 +1,26 @@
+{
+  "name": "Eric Green",
+  "age": 35,
+  "address": {
+    "street": "Igazo Pass",
+    "city": "Corvuhwug",
+    "state": "LA",
+    "zip": "96286"
+  },
+  "contact": {
+    "phone": "(445) 443-7522",
+    "servicePhone": "800872265"
+  },
+  "birthday": "1999-06-24T19:26:16.093Z",
+  "ip": "143.190.205.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Vosaco tahuwa avune hauteho ovigum kotus sas we ube fobzu kocku ajsoz epujihude. Sujceidi ner morso fuj javici tunetar sahsigke kuh ajji ajaop mof kolihet. Rap gimi ti taruh sujelsuk dinabi ufofaij hu catumo bosduj geadvi vandoreci. Notino bebigrul zuk te kew julal enake cuted mu mom li umasal ibgollo wud wan. Vusaka uwve uvajesin apakostu kacgepo heir ci gik uzuhis kalfurgu ge rijela bu ber. Cogdaket pukkat secudi fufpem bamo gitutuif najbi denvagih late kiadego wici begob mu.",
+    "bio": "Tokpak letce bifbiglit adububos fidi howo eci fuknal ihoif fed evefabeh linu. Soz tik weldosol ak umjotac gada bad ik je facpak alowmi newda. Ca ce hoesti tu mulve vaisodo tuelemir ibnaar muvcigfuj utojaf vo ri it hucefmef fulibke jal. Latezkod fuew kiud jatu riamko na zuc heagipis pikavus leplog homeho jufje. Buvac ba perbi puikehu pak itimuwis zuomuzo so jazanteb sezuna coez fecibdo jipijzat roip dotodek."
+  },
+  "apiKey": "1ce8c98c08675866ca12a83e7feedd644ebdbedd42b81edc01169d9a3fc7a6b4",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
