@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Griffith",
+  "age": 33,
+  "address": {
+    "street": "Alenu Avenue",
+    "city": "Seveiv",
+    "state": "RI",
+    "zip": "79258"
+  },
+  "contact": {
+    "phone": "(880) 610-4234",
+    "servicePhone": "800678292"
+  },
+  "birthday": "1964-07-26T00:51:48.778Z",
+  "ip": "228.15.10.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Dil ag ajufanoc ki papruphav udba fudanpez eletowsa lo cim ges jahico akler. Gus wegbigro ocefez latalnov iceleda be ogoagiwun hada cikcip kunak dabe oki uklahoz nok nu ehonim mosule. Honbowod aroozko umude opu kewum foemre ovdeh odneku ze boekano aco zime pifus. Dir itusilbu jehodoku la laaz upofe lul howsedo toka rorok heh tug jiw ahaaklo. Ucu zitsotsa ejaovgol puvro jek nitkaj cuzo cigzojah pitfu fukitu fiol me nudampad emwer buzfi hamvo wakmueg feormif. Usfulbo amuro danimza reraraja ok baja doluni ta pu awsos lub sec beupevab ulom fo ero foro.",
+    "bio": "Tinu ucusuvrec condev esogec buwugav rumil oziapu abajkod himmihor ipa fadve azesokce bi bovige recza tos gazucim. Tahuzuw zease zos gabahop sus olopok meecu koludu koaj junakal usozi ave kojek puk woh. Dozwu uvvez jof zud idicep meh zelge vevipni rofmu nirizel nipbu ujhu juntucso ukubirge al ikauhibo gofzedsuv poumvi. Mocun wusodo noupbe zenerfez tilkuj ekove recliude gufhu motawagic favvan tu gisli. Ve owgures huvipwi ve su uvwaoti no vowvek lu ro uw miw lir igujobup topatu. Feinecas tu fob fufmirag bijfaje ral pogosev vup evutefan wimzubje vo kumgop ito fojve."
+  },
+  "apiKey": "e72a1b5f9c609de2015c2db494d16d32c588b99744f3d672701c4b371a02ad83",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
