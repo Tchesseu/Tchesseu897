@@ -1,0 +1,26 @@
+{
+  "name": "Mayme Swanson",
+  "age": 53,
+  "address": {
+    "street": "Kaviri Boulevard",
+    "city": "Ganimaje",
+    "state": "NY",
+    "zip": "41433"
+  },
+  "contact": {
+    "phone": "(414) 675-8006",
+    "servicePhone": "800885461"
+  },
+  "birthday": "1959-10-17T07:57:33.895Z",
+  "ip": "55.63.28.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Kanusi suri uli jehu comoot no ocekbi racekvus wac huhnuipu opo alajuk boati senvillog orape giogewo ciwapala aceha. Afu elutuv ju wod buhed we ti leneraara id lawosi jacza bo. Ovkuj selofeg ok dafil holtur ti ifec in pon vu luwiji ubrelefa. Nusov rawas nezazweh cu dow kitekzit obewah reg sulraz fo ipma jakso odefo vav. Wa osibabuf oratol wodakcul lov mesgiace zon abuvemofu pob doshe puubuiva foprig fu.",
+    "bio": "Tuko ume ralfof ukorivu nif ubufalo ericowfad afigurje nocod agunoaj icwehuf vurpopjih muta da zuhuvo ira. Zoli afehahho ma ohi afsep co linal pede televu ubrizpa zipvuw ubze zewgi ukuliahu tano. Gihjuvazu zubdu opihopide damvumbi gedbap malido ja ic putdi edanopcaz lalzoot re pa keiza luram rikacuwi rapela. Sidomho pawji ag doz lodden icades segajrub katen soz mim as deseri alavazoc taz se."
+  },
+  "apiKey": "dacdf4ecc09362a34d00f2d8cbc3482a6e8ae9a96da973b0088e4be72acbaca8",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
