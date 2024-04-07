@@ -1,0 +1,26 @@
+{
+  "name": "Victor Rice",
+  "age": 28,
+  "address": {
+    "street": "Ippu Pike",
+    "city": "Hebasav",
+    "state": "WA",
+    "zip": "07590"
+  },
+  "contact": {
+    "phone": "(872) 290-4135",
+    "servicePhone": "800955992"
+  },
+  "birthday": "1966-02-04T23:43:46.737Z",
+  "ip": "131.217.13.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Vakuapu saro vocji nol kamcimba ajmuz wiwav de bav buw hihu rifar ru. Ahaetnaw co ho din ru em ponba tup kubori vel pemli dac unocu maccis ofiovhuc gupoj nud. Ivdod fu sabepi sa voc tukuj hi lipa nuvadike cizip senehuco oca hepcuwra. Ibetakfu iggumcu iva zawuet worved fuza huflah ivkuim pobi pic babettiw pez un el ho om eto.",
+    "bio": "Buzhuof je lekuco sepib ace vokiho to fehit gis jisuciv ofolub luzubmi. Zeazmi lajca hiaroma figum tu gucot ro enudupur ha tir lusit igite hacocac haerogaj kob ziiz. Lanjehjam aziebwe anadi aphoneg da let te muka kaw savecda utnu kapodju. Je ehikot wefirom jo tut elu kam egugemrur voifge bif nacepi be daopa be fahu."
+  },
+  "apiKey": "a0378f166ea6dfd32912014ba1ee0afe343ecf5bd2d0b42a6342b6fcfa3e438f",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
